@@ -1,0 +1,16 @@
+.app-container{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.head{
+    color: aliceblue;
+}
+
+.li-item{
+    font-size: 1.2rem;
+}
+
+.label-head{
+    font-size: 2.2rem;
+}
